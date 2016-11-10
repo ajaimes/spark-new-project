@@ -11,7 +11,7 @@ import static spark.Spark.port;
  */
 public class Main {
 
-	@Data
+    @Data
     public static class Person {
         private String name = "Andres";
     }
